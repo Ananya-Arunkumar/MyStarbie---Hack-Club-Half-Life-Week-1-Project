@@ -1,4 +1,5 @@
 Starbie Kit - Provided by Hack Club
+
 PCB - 9.90 + 9.33 shipping (JLCPCB)
 
 Estimated total - $19.23
