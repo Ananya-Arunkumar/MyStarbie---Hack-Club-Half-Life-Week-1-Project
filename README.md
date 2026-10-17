@@ -2,11 +2,11 @@
 
 Starbie is a tiny desk buddy built using a Seeed XIAO ESP32-C3, an OLED display, and motion and temperature sensors.
 
-<img width="740" height="526" alt="Screenshot 2026-10-09 000342" src="https://github.com/user-attachments/assets/41cb4f38-fc15-45ef-96f5-0c36dc8fcc49" />
+<img width="814" height="537" alt="Screenshot 2026-10-16 211552" src="https://github.com/user-attachments/assets/7c5079a8-cb99-464a-9267-ad16c12fb022" />
 
 PCB Editor View
 
-<img width="745" height="510" alt="Screenshot 2026-10-09 001858" src="https://github.com/user-attachments/assets/a8762690-419e-4c80-ae3b-169f85982860" />
+<img width="952" height="596" alt="Screenshot 2026-10-16 211637" src="https://github.com/user-attachments/assets/341e1560-a4e4-4458-a72f-45480d4b854d" />
 
 3D view
 
