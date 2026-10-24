@@ -12,24 +12,15 @@ PCB Editor View
 
 
 **Features**
-* Animated digital pet on a 0.96-inch OLED display
-* Motion-controlled radial menu using an MPU6050 accelerometer
-* Pet stats for joy, energy, and fullness
-* Temperature and humidity readings using a DHT11 sensor
-* Two buttons for interacting with the pet
+Starbie is a digital Tamagotchi-esque pet who you can keep on your desk and take care of. It has a main radial menu in which it can detect movement using an accelerometer. The pet has a 4 main functions of eat, sleep, shower, and play and it has 3 main stats: joy, energy and fullness. You interact with the pet using the display and the 2 buttons. Along with that, Starbie can also detect the temperature and humidity of its surroundings. 
 
 **Hardware**
-* Seeed XIAO ESP32-C3
-* 0.96-inch SSD1306 OLED display
-* MPU6050 accelerometer and gyroscope module (lets the thing know it's moving)
-* DHT11 temperature and humidity sensor
-* Two push buttons
-* Starbie PCB
+Starbie was made with its PCB, obviously. It has a 0.96 inch OLED Display and 2 push buttons which all you to interact with the pet. It also has an MPU6050 accelerometer and gyroscope module which tells the pet where it is (Not like a GPS but rather like a "I'm moving fast right now". The brain of the Starbie is a XIAO ESP32-C3
 
 See BOM.csv for the bill of materials and PCB folder for the PCB design files.
 
 **Software**
-The PCB is designed using KiCad. The firmware is written for the Arduino IDE. (Refer firmware Folder)
+The PCB is designed using KiCad. The firmware is written for the Arduino IDE. (Refer to firmware Folder)
 
 **Building**
 1. Gather the components listed in the bill of materials.
@@ -47,4 +38,4 @@ PCB/ — PCB layout, schematic, and KiCad project files
 BOM.csv — Bill of materials
 
 **Credits**
-Starbie is based on the original project by SharKingStudios and Hack Club. Please refer to the original project repository and its license for attribution and reuse requirements.
+Starbie is based on the original project by SharKingStudios and Hack Club. Please refer to the original project repository and its license for attribution, reuse, and other questions.
