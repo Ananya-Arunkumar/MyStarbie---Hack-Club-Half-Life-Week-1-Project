@@ -1539,7 +1539,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "b6aa3cf2-a440-48ab-9e72-e96a73f603e8")
-		(at 133 62)
+		(at 109.5 68)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -1759,7 +1759,7 @@
 		(property "Reference" "U1"
 			(at 7.112 -21.336 90)
 			(layer "F.SilkS")
-			(uuid "1640ada0-613b-4728-a65f-acdba5cf4880")
+			(uuid "6cc6a8bf-9835-4b2e-b4ac-61dc83765c6c")
 			(effects
 				(font
 					(size 0.78232 0.78232)
@@ -1771,7 +1771,7 @@
 		(property "Value" "XIAO-ESP32-C3-SMD"
 			(at 8.89 -10.795 90)
 			(layer "F.Fab")
-			(uuid "a492d409-39a4-48b5-b6d3-f36c3610224a")
+			(uuid "5bb914c8-2d17-4a2c-8b51-ba1c3f1c8263")
 			(effects
 				(font
 					(size 0.536448 0.536448)
@@ -1784,7 +1784,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2688929d-29f1-43a9-ba03-34aafc0c7e07")
+			(uuid "42de26cd-1a35-4655-8e4a-95a0668e5f48")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1797,7 +1797,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b2d45073-e22e-4710-af67-acef47181b06")
+			(uuid "56466984-0a10-4949-a147-3cfe9342ae4e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2561,19 +2561,19 @@
 			)
 		)
 	)
-	(gr_circle
-		(center 150 100)
-		(end 205 100)
+	(gr_rect
+		(start 95.5 49.5)
+		(end 193.5 146.5)
 		(stroke
 			(width 0.05)
-			(type solid)
+			(type default)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "e9b5666e-3a92-479a-9d3c-3cd43e6fc295")
+		(uuid "cde3fa77-675d-43a1-a8f5-bdad3e2b9772")
 	)
 	(gr_text "Starbie"
-		(at 139.5 146 0)
+		(at 121 70.5 0)
 		(layer "F.Mask")
 		(uuid "a4743257-5188-4b22-877e-f8383684227f")
 		(effects
